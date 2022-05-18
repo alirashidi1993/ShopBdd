@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c355149-225b-4892-a5ba-5092cc158797": {
+      "ProjectGuid": "3c355149-225b-4892-a5ba-5092cc158797",
+      "DisplayName": "Shop",
+      "ColorIndex": 0
+    },
+    "7787186b-0606-4cd2-b84a-7cd12f7a0780": {
+      "ProjectGuid": "7787186b-0606-4cd2-b84a-7cd12f7a0780",
+      "DisplayName": "Shop.Test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d4daac0a-118f-4704-8577-44586f51342c": {
+      "ProjectGuid": "d4daac0a-118f-4704-8577-44586f51342c",
+      "DisplayName": "Shop.DataAccess",
+      "ColorIndex": 2
+    },
+    "47a4e400-87f4-458d-96e1-c2bea2f75b7c": {
+      "ProjectGuid": "47a4e400-87f4-458d-96e1-c2bea2f75b7c",
+      "DisplayName": "Shop.Entities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

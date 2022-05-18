@@ -1,0 +1,15 @@
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\Shop.DataAccess.deps.json
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\Shop.DataAccess.dll
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\ref\Shop.DataAccess.dll
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\Shop.DataAccess.pdb
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\Shop.Entities.dll
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\bin\Debug\net5.0\Shop.Entities.pdb
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.csproj.CopyComplete
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.dll
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\ref\Shop.DataAccess.dll
+C:\Users\4000815\source\repos\Shop\Shop.DataAccess\obj\Debug\net5.0\Shop.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\4000815\source\repos\Shop\Shop.Entities\bin\Debug\net5.0\Shop.Entities.deps.json
+C:\Users\4000815\source\repos\Shop\Shop.Entities\bin\Debug\net5.0\Shop.Entities.dll
+C:\Users\4000815\source\repos\Shop\Shop.Entities\bin\Debug\net5.0\ref\Shop.Entities.dll
+C:\Users\4000815\source\repos\Shop\Shop.Entities\bin\Debug\net5.0\Shop.Entities.pdb
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.csproj.AssemblyReference.cache
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.AssemblyInfoInputs.cache
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.AssemblyInfo.cs
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.dll
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\ref\Shop.Entities.dll
+C:\Users\4000815\source\repos\Shop\Shop.Entities\obj\Debug\net5.0\Shop.Entities.pdb
